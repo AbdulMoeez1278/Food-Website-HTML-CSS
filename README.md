@@ -67,7 +67,9 @@ Contact
 For any questions or feedback, feel free to reach out:
 
 Email: abdulmoeez1278@gmail.com
+
 GitHub: github.com/AbdulMoeez1278
+
 LinkedIn: linkedin.com/in/abdulmoeez1278
 
 Thank you for visiting the Food Website repository! Bon appétit! 🍴
